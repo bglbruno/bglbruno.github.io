@@ -12,10 +12,10 @@ Se você já teve algum contato com Vim, sabe que existe uma infinidade de coman
 
 Pois bem, vou mostrar alguns caminhos que facilitarão sua jornada no aprendizado. Que inclusive, foram de grande importância quando busquei materiais de apoio para aprender também.
 
-Esses caminhos são:
-* Vimtutor
-* Vim Golf
-* Open Vim
+Esses caminhos dos quais falarei aqui, são:
+* [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
+* [vimgolf](http://www.vimgolf.com/ "Vim Golf")
+* [OpenVim](http://www.openvim.com/ "OpenVim")
 
 ### Vimtutor
 [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
