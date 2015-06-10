@@ -7,4 +7,4 @@ permalink: /about/
 Desenvolvedor de software, artista e fotógrafo.
 Minhas três paixões.
 
-[email@domain.com](mailto:email@domain.com)
+[bgl.bruno@gmail.com](mailto:bgl.bruno@gmail.com)
