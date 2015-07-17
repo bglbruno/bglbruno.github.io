@@ -36,6 +36,11 @@ O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar 
 
 _Vim Golf_ é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
 
+```shell
+$ gem install vimgolf
+$ vimgolf setup
+$ vimgolf put [challenge ID]
+```
 ### Open Vim
 [OpenVim](http://www.openvim.com/ "OpenVim")
 
