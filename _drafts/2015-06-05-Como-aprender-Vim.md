@@ -2,13 +2,14 @@
 published: false
 ---
 
+
 ## Como aprender Vim
 
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
 
-Se você já teve algum contato com Vim, sabe que existe uma infinidade de comandos, e isso inicialmente pode parecer uma confusão enorme, e talvez isso entre outrovs motivos, te desencoraje a usar o Vim no seu dia a dia. 
+Se você já teve algum contato com Vim, sabe que existe uma infinidade de comandos, e isso inicialmente pode parecer uma confusão enorme, e talvez isso entre outros motivos, te desencoraje a usar o Vim no seu dia a dia. 
 
 Pois bem, vou mostrar alguns caminhos que facilitarão sua jornada no aprendizado. Que inclusive, foram de grande importância quando busquei materiais de apoio para aprender também.
 
@@ -20,16 +21,24 @@ Esses caminhos dos quais falarei aqui, são:
 ### Vimtutor
 [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
 
+Para instalar o vimtutor, digite no terminal:
+```shell
+# apt-get install vimtutor
+```
+
+Depois de instalado, basta rodar o comando:
+```shell
+# vimtutor
+```
+
+Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explicação do que é, juntamente com algumas outras informações.
+
+O tutorial é dividido em 7 lições, cada um com alguma seções.
+
 ### Vim Golf
 [vimgolf](http://www.vimgolf.com/ "Vim Golf")
 
 ### Open Vim
 [OpenVim](http://www.openvim.com/ "OpenVim")
-
-
-
-
-
-
 
 
