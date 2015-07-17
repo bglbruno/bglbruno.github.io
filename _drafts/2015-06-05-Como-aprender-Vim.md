@@ -24,19 +24,17 @@ Esses caminhos dos quais falarei aqui, são:
 Para instalar o vimtutor, digite no terminal:
 ```shell
 # apt-get install vimtutor
-```
-
-Depois de instalado, basta rodar o comando:
-```shell
 # vimtutor
 ```
 
-Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explicação do que é, juntamente com algumas outras informações.
+Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explicação do que é, juntamente com algumas outras informações. Que nada mais é do que o editor _Vim_ com um texto e instruções para seguir, dividido em 7 lições, cada uma com suas seções. 
 
-O tutorial é dividido em 7 lições, cada um com alguma seções.
+O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar o _Vim_ com maior facilidade, isso é certeza!
 
 ### Vim Golf
 [vimgolf](http://www.vimgolf.com/ "Vim Golf")
+
+_Vim Golf_ é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
 
 ### Open Vim
 [OpenVim](http://www.openvim.com/ "OpenVim")
