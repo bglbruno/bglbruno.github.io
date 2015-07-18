@@ -21,7 +21,7 @@ Esses caminhos dos quais falarei aqui, são:
 
 [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor"){:target="_blank"} é um tutorial via terminal, usando de fato o _Vim_. Para instalar o vimtutor, digite no terminal:
 
-```
+```bash
 # apt-get install vimtutor
 # vimtutor
 ```
@@ -40,13 +40,13 @@ O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar 
 
 Para usá-lo, é necessário ter uma conta no _Twitter_
 
-```
+```bash
 $ gem install vimgolf
 ```
 
 Depois de instalar a gem, faça login no site com sua conta do _twitter_ e execute o seguinte comando no terminal:
 
-```
+```bash
 $ vimgolf setup
 ```
 
@@ -54,7 +54,7 @@ Esse comando irá pedir a sua _VimGolf Key_, que é fornecida a você após faze
 
 Feito isso, irá aparecer a mensagem > Saved. Happy golfing!, e então você poderá navegar pelos Challenges, e quando entrar entrar em um, aparecerá no box preto no canto superior direito o _challenge ID_, e então basta seguir a instrução
 
-```
+```bash
 $ vimgolf put [challenge ID]
 ```
 
