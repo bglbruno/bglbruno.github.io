@@ -14,7 +14,7 @@ Pois bem, vou mostrar alguns caminhos que facilitarão sua jornada no aprendizad
 
 Esses caminhos dos quais falarei aqui, são:
 - [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor"){:target="_blank"}
-- [vimgolf](http://www.vimgolf.com/ "Vim Golf"){:target="_blank"}
+- [VimGolf](http://www.vimgolf.com/ "Vim Golf"){:target="_blank"}
 - [OpenVim](http://www.openvim.com/ "OpenVim"){:target="_blank"}
 
 ### Vimtutor 
