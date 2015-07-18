@@ -6,16 +6,16 @@ layout: post
 
 Olá pessoal! 
 
-Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
+Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"){:target="_blank"}. Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
 
 Se você já teve algum contato com Vim, sabe que existe uma infinidade de comandos, e isso inicialmente pode parecer uma confusão enorme, e talvez isso entre outros motivos, te desencoraje a usar o Vim no seu dia a dia. 
 
 Pois bem, vou mostrar alguns caminhos que facilitarão sua jornada no aprendizado. Que inclusive, foram de grande importância quando busquei materiais de apoio para aprender também.
 
 Esses caminhos dos quais falarei aqui, são:
-* [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
-* [vimgolf](http://www.vimgolf.com/ "Vim Golf")
-* [OpenVim](http://www.openvim.com/ "OpenVim")
+* [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor"){:target="_blank"}
+* [vimgolf](http://www.vimgolf.com/ "Vim Golf"){:target="_blank"}
+* [OpenVim](http://www.openvim.com/ "OpenVim"){:target="_blank"}
 
 ### Vimtutor 
 
@@ -32,11 +32,11 @@ O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar 
 
 ### Open Vim 
 
-[OpenVim](http://www.openvim.com/ "OpenVim") é um tutorial passo a passo também, parecido com o _vimtutor_, porém um pouco mais interativo. O seu uso é bem intuitivo, basta entrar no site e seguir as instruções.
+[OpenVim](http://www.openvim.com/ "OpenVim"){:target="_blank"} é um tutorial passo a passo também, parecido com o _vimtutor_, porém um pouco mais interativo. O seu uso é bem intuitivo, basta entrar no site e seguir as instruções.
 
 ### Vim Golf 
 
-[VimGolf](http://www.vimgolf.com/ "Vim Golf") é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
+[VimGolf](http://www.vimgolf.com/ "Vim Golf"){:target="_blank"} é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
 
 Para usá-lo, é necessário ter uma conta no _Twitter_
 
