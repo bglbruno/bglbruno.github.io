@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"){:target="_blank"}. Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
@@ -55,7 +56,7 @@ $ vimgolf setup
 
 Esse comando irá pedir a sua _VimGolf Key_, que é fornecida a você após fazer o login.
 
-Feito isso, irá aparecer a mensagem > Saved. Happy golfing!, e então você poderá navegar pelos Challenges, e quando entrar entrar em um, aparecerá no box preto no canto superior direito o _challenge ID_, e então basta seguir a instrução
+Feito isso, você poderá navegar pelos Challenges, e quando entrar entrar em um, aparecerá no box preto no canto superior direito o _challenge ID_, e então basta seguir a instrução
 
 ```bash
 $ vimgolf put [challenge ID]
