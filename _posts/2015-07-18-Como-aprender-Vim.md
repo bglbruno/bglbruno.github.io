@@ -17,8 +17,7 @@ Esses caminhos dos quais falarei aqui, são:
 * [vimgolf](http://www.vimgolf.com/ "Vim Golf")
 * [OpenVim](http://www.openvim.com/ "OpenVim")
 
-### Vimtutor
-[Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
+### [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
 
 Para instalar o vimtutor, digite no terminal:
 
@@ -31,13 +30,11 @@ Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explica�
 
 O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar o _Vim_ com maior facilidade, isso é certeza!
 
-### Open Vim
-[OpenVim](http://www.openvim.com/ "OpenVim")
+### [OpenVim](http://www.openvim.com/ "OpenVim")
 
 _Open Vim_ é um tutorial passo a passo também, parecido com o _vimtutor_, porém um pouco mais interativo. O seu uso é bem intuitivo, basta entrar no site e seguir as instruções.
 
-### Vim Golf
-[vimgolf](http://www.vimgolf.com/ "Vim Golf")
+### [VimGolf](http://www.vimgolf.com/ "Vim Golf")
 
 _Vim Golf_ é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
 
