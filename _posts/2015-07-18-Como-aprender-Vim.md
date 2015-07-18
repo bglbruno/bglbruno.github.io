@@ -4,8 +4,6 @@ published: true
 
 
 
-## Como aprender Vim
-
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
