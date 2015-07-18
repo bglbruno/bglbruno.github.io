@@ -3,6 +3,7 @@ published: false
 ---
 
 
+
 ## Como aprender Vim
 
 Olá pessoal! 
@@ -31,17 +32,38 @@ Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explica�
 
 O tutorial é básico porém, após finalizá-lo, você estará pronto pra usar o _Vim_ com maior facilidade, isso é certeza!
 
+### Open Vim
+[OpenVim](http://www.openvim.com/ "OpenVim")
+
+_Open Vim_ é um tutorial passo a passo também, parecido com o _vimtutor_, porém um pouco mais interativo. O seu uso é bem intuitivo, basta entrar no site e seguir as instruções.
+
 ### Vim Golf
 [vimgolf](http://www.vimgolf.com/ "Vim Golf")
 
 _Vim Golf_ é um jogo baseado no _Vim_. Nele você faz pontos de acordo o número mínimo de passos que teve de executar para chegar num resultado final, como manda o desafio que você estiver.
 
+Para usá-lo, é necessário ter uma conta no _Twitter_
+
 ```shell
 $ gem install vimgolf
+```
+Depois de instalar a gem, faça login no site com sua conta do _twitter_ e execute o seguinte comando no terminal:
+```shell
 $ vimgolf setup
+```
+Esse comando irá pedir a sua _VimGolf Key_, que é fornecida a você após fazer o login.
+
+Feito isso, irá aparecer a mensagem > Saved. Happy golfing!, e então você poderá navegar pelos Challenges, e quando entrar entrar em um, aparecerá no box preto no canto superior direito o _challenge ID_, e então basta seguir a instrução
+```shell
 $ vimgolf put [challenge ID]
 ```
-### Open Vim
-[OpenVim](http://www.openvim.com/ "OpenVim")
+O vim será aberto e você terá que editar seu conteúdo, mostrado no site na seção _'Start file'_ e deixar ele no formato da seção _'End file'_, tudo isso usando o menor número possível de passos, pois sua pontuação no jogo depende disso.
+
+Após editar o texto, basta salvar e sair ([ESC] :wq, para os que encererem [rs]), e será mostrado sua pontuação, juntamente com os passos que realizou para chegar no resultado final. Nesse ponto o _vimgolf_ lhe dará algumas opções sobre o que fazer adiante, basta escolher.
 
 
+### Conclusão
+
+Esses foram os meios que utilizei para começar com o Vim. É claro que ele vai muito além disso, pois existem inúmeros comandos, plugins, personalizações, etc. Entretanto, ao conseguir fazer uso de sua funcionalidade básica, você estará apto a usá-lo no seu dia a dia, e consequentemente conforme irão surgindo suas necessidades, você vai conseguir evoluir seu conhecimento sobre ele.
+
+Bons estudos e pratique!
