@@ -3,6 +3,7 @@ published: true
 layout: post
 ---
 
+
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
@@ -21,10 +22,10 @@ Esses caminhos dos quais falarei aqui, são:
 
 Para instalar o vimtutor, digite no terminal:
 
-```
+{% highlight bash %}
 # apt-get install vimtutor
 # vimtutor
-```
+{% endhighlight %}
 
 Uma tela será aberta, com uma tela de boas vindas ao vimtutor, com uma explicação do que é, juntamente com algumas outras informações. Que nada mais é do que o editor _Vim_ com um texto e instruções para seguir, dividido em 7 lições, cada uma com suas seções. 
 
