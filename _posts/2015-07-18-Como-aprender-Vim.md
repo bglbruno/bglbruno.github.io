@@ -2,6 +2,7 @@
 published: true
 ---
 
+
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
@@ -55,7 +56,7 @@ $ vimgolf put [challenge ID]
 ```
 O vim será aberto e você terá que editar seu conteúdo, mostrado no site na seção _'Start file'_ e deixar ele no formato da seção _'End file'_, tudo isso usando o menor número possível de passos, pois sua pontuação no jogo depende disso.
 
-Após editar o texto, basta salvar e sair ([ESC] :wq, para os que encererem [rs]), e será mostrado sua pontuação, juntamente com os passos que realizou para chegar no resultado final. Nesse ponto o _vimgolf_ lhe dará algumas opções sobre o que fazer adiante, basta escolher.
+Após editar o texto, basta salvar e sair, e será mostrado sua pontuação, juntamente com os passos que realizou para chegar no resultado final. Nesse ponto o _vimgolf_ lhe dará algumas opções sobre o que fazer adiante, basta escolher.
 
 
 ### Conclusão
