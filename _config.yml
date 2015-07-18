@@ -54,7 +54,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: /:title/
 
 kramdown:
