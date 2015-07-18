@@ -3,8 +3,6 @@ published: true
 layout: post
 ---
 
-
-
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"). Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
@@ -22,7 +20,8 @@ Esses caminhos dos quais falarei aqui, são:
 [Vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html "Vimtutor")
 
 Para instalar o vimtutor, digite no terminal:
-```shell
+
+```
 # apt-get install vimtutor
 # vimtutor
 ```
@@ -43,19 +42,24 @@ _Vim Golf_ é um jogo baseado no _Vim_. Nele você faz pontos de acordo o númer
 
 Para usá-lo, é necessário ter uma conta no _Twitter_
 
-```shell
+```
 $ gem install vimgolf
 ```
+
 Depois de instalar a gem, faça login no site com sua conta do _twitter_ e execute o seguinte comando no terminal:
-```shell
+
+```
 $ vimgolf setup
 ```
+
 Esse comando irá pedir a sua _VimGolf Key_, que é fornecida a você após fazer o login.
 
 Feito isso, irá aparecer a mensagem > Saved. Happy golfing!, e então você poderá navegar pelos Challenges, e quando entrar entrar em um, aparecerá no box preto no canto superior direito o _challenge ID_, e então basta seguir a instrução
-```shell
+
+```
 $ vimgolf put [challenge ID]
 ```
+
 O vim será aberto e você terá que editar seu conteúdo, mostrado no site na seção _'Start file'_ e deixar ele no formato da seção _'End file'_, tudo isso usando o menor número possível de passos, pois sua pontuação no jogo depende disso.
 
 Após editar o texto, basta salvar e sair, e será mostrado sua pontuação, juntamente com os passos que realizou para chegar no resultado final. Nesse ponto o _vimgolf_ lhe dará algumas opções sobre o que fazer adiante, basta escolher.
