@@ -5,6 +5,7 @@ layout: post
 
 
 
+
 Olá pessoal! 
 
 Hoje vou falar sobre o editor de texto [Vim](http://www.vim.org/ "Vim"){:target="_blank"}. Mais especificamente, vou dar orientações sobre como você pode aprender a usá-lo. 
@@ -69,6 +70,6 @@ Após editar o texto, basta salvar e sair, e será mostrado sua pontuação, jun
 
 ### Conclusão
 
-Esses foram os meios que utilizei para começar com o Vim. É claro que ele vai muito além disso, pois existem inúmeros comandos, plugins, personalizações, etc. Entretanto, ao conseguir fazer uso de sua funcionalidade básica, você estará apto a usá-lo no seu dia a dia, e consequentemente conforme irão surgindo suas necessidades, você vai conseguir evoluir seu conhecimento sobre ele.
+Esses foram os meios que utilizei para começar com o Vim. É claro que ele vai muito além disso, pois existem inúmeros comandos, plugins, personalizações, etc. Entretanto, ao conseguir fazer uso de sua funcionalidade básica, você estará apto a usá-lo no seu dia a dia, e consequentemente conforme forem surgindo suas necessidades, você vai conseguir evoluir seu conhecimento sobre ele.
 
 Bons estudos e pratique!
